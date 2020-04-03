@@ -1,0 +1,16 @@
+body{
+  padding-top: 15px;
+  background-color: #E8EEF4;
+}
+textarea {
+resize:none;
+}
+
+.height-input{
+  height: 50px;
+}
+
+.btn-completed{
+  border-radius: 45rem;
+}
+
